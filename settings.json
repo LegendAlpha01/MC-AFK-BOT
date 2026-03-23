@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LegendAlpha01.aternos.me:53583",
+    "ip": "LegendAlpha01.aternos.me",
     "port": 53583,
     "version": "1.21.1"
   },
